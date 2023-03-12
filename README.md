@@ -1,2 +1,12 @@
-Soil erosion is a major problem affecting the agriculture industry, causing loss of soil fertility and crop yield. 
-The aim is to develop a machine learning model using satellite imagery. A U-Net architecture was used for image segmentation to detect soil erosion.
+# Regression Model for Target Prediction
+This project contains a Python script for building a regression model that predicts a target based on a set of features. The script uses the Random Forest Regressor algorithm from scikit-learn and is trained on a dataset of samples.
+
+## Requirements
+The script requires the following Python libraries:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+
+These libraries can be installed by running pip install -r requirements.txt.
