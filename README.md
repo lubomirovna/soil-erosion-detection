@@ -1,0 +1,2 @@
+Soil erosion is a major problem affecting the agriculture industry, causing loss of soil fertility and crop yield. 
+The aim is to develop a machine learning model using satellite imagery. A U-Net architecture was used for image segmentation to detect soil erosion.
